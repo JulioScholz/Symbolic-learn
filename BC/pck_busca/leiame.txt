@@ -1,0 +1,10 @@
+Em 7/8/2018
+
+
+DESCRIÇÃO GERAL
+---------------
+Este pacote é utilizado para as tarefas de ambiente, formulação de problemas de busca e busca.
+
+DETALHES
+--------
+* versão -enunc do pacote problema: tem métodos suprimidos para a realização da tarefa de 'formulação de problemas'
